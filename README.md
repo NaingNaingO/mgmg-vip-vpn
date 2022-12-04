@@ -1,2 +1,0 @@
-# mgmg-vip-vpn
-mgmgvipvpn
