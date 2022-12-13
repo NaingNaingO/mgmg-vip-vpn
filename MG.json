@@ -39,7 +39,7 @@
       },
 {
          "name": "TH-D&T-VIP-010",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-012.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-013.ovpn"
       },
 {
          "name": "TH-D&T-VIP-011",
@@ -55,10 +55,10 @@
       },
 {
          "name": "TH-D&T-VIP-014",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-013.ovpn"
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-012.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\n•All New Servers\n•Version: 6\n\n•Config By:FreeNetMgMg ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\n•All New Servers\n•Version: 7\n\n•Config By:FreeNetMgMg ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 6
+   "version": 7
 }
