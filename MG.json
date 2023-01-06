@@ -2,63 +2,79 @@
    "files": [    
 
 {
-         "name": "SG-D&T-FREE-001",
-         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/DTAC%26TRUE-1.ovpn"
+         "name": "SG-FREE-001",
+         "url": "https://raw.githubusercontent.com/Mcminmin/MGMG/main/Free-001.ovpn"
       },
 {
-         "name": "SG-D&T-VIP-002",
+         "name": "SG-FREE-002",
+         "url": "https://raw.githubusercontent.com/Mcminmin/MGMG/main/Free-002.ovpn"
+      },
+{
+         "name": "SG-FREE-003",
+         "url": "https://raw.githubusercontent.com/Mcminmin/MGMG/main/Free-003.ovpn"
+      },
+{
+         "name": "SG-VIP-001",
+         "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/SG-VIP-001.ovpn"
+      },
+{
+         "name": "SG-VIP-002",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-001.ovpn"
       },
 {
-         "name": "SG-D&T-VIP-003",
+         "name": "SG-VIP-003",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-002.ovpn"
       },
 {
-         "name": "SG-D&T-VIP-004",
+         "name": "SG-VIP-004",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-003.ovpn"
       },
 {
-         "name": "SG-D&T-VIP-005",
+         "name": "SG-VIP-005",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-004.ovpn"
       },
 {
-         "name": "SG-D&T-VIP-006",
+         "name": "SG-VIP-006",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-005.ovpn"
       },
 {
-         "name": "SG-D&T-VIP-007",
+         "name": "SG-VIP-007",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-006.ovpn"
       },
 {
-         "name": "SG-D&T-VIP-008",
+         "name": "SG-VIP-008",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-007.ovpn"
       },
 {
-         "name": "SG-D&T-VIP-009",
+         "name": "SG-VIP-009",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-008.ovpn"
       },
 {
-         "name": "TH-D&T-VIP-010",
+         "name": "TH-VIP-010",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-013.ovpn"
       },
 {
-         "name": "TH-D&T-VIP-011",
+         "name": "TH-VIP-011",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-014.ovpn"
       },
 {
-         "name": "TH-D&T-VIP-012",
+         "name": "TH-VIP-012",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-015.ovpn"
       },
 {
-         "name": "TH-D&T-VIP-013",
+         "name": "TH-VIP-013",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-011.ovpn"
       },
 {
-         "name": "TH-D&T-VIP-014",
+         "name": "TH-VIP-014",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/D%26T-012.ovpn"
+      },
+{
+         "name": "TH-VIP-015",
+         "url": "https://raw.githubusercontent.com/Mcminmin/MGMG/main/TH-VIP-015.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\n•All New Servers\n•Version: 7\n\n•Config By:FreeNetMgMg ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 7\n\nConfig By:FreeNetMgMg ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 7
+   "version": 8
 }
