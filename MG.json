@@ -84,9 +84,13 @@
 {
          "name": "TH-VIP-018",
          "url": "https://raw.githubusercontent.com/FREENET-MAUNG/FREENET-MAUNG/main/TH-VIP-018.ovpn"
+      },
+{
+         "name": "TH-VIP-019",
+         "url": "https://raw.githubusercontent.com/NAINGOO1/MAUNG/main/D%26T.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 10\n\nConfig By:FreeNetMgMg ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 11\n\nConfig By:FreeNetMgMg ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 11
+   "version": 12
 }
