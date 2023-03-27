@@ -42,12 +42,12 @@
          "url": "https://raw.githubusercontent.com/NAINGOO1/MAUNG/main/SG-VIP-007.ovpn"
       },
 {
-         "name": "SG-VIP-008",
-         "url": "https://raw.githubusercontent.com/NAINGOO1/MAUNG/main/SG-VIP-008.ovpn"
+         "name": "TH-VIP-008",
+         "url": "https://raw.githubusercontent.com/NAINGOO1/MAUNG/main/TH-VIP-008.ovpn"
       },
 {
-         "name": "SG-VIP-009",
-         "url": "https://raw.githubusercontent.com/NAINGOO1/MAUNG/main/SG-VIP-009.ovpn"
+         "name": "TH-VIP-009",
+         "url": "https://raw.githubusercontent.com/NAINGOO1/MAUNG/main/TH-VIP-009.ovpn"
       },
 {
          "name": "TH-VIP-010",
@@ -106,7 +106,7 @@
          "url": "https://raw.githubusercontent.com/NAINGOO1/MAUNG/main/TH-VIP-023.ovpn"
       }
 ],
-"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 19\n\nConfig By:FreeNetMgMg ",
+"message":"Update အဆင့်မြင့်ရန်နိမ့်ပါ\nAll New Servers\nVersion: 20\n\nConfig By:FreeNetMgMg ",
    "title":"Add DTAC&TRUE auto update file" ,
-   "version": 20
+   "version": 21
 }
